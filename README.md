@@ -2,19 +2,19 @@
 
 ## About Me
 
-I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science and 3 years of hands-on experience. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js, React.js, Angular.js, and Next.js, coupled with a strong foundation in software architecture design and technical documentation.
+I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science and 4 years of hands-on experience. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js, React.js, Angular.js, and Next.js, coupled with a strong foundation in software architecture design and technical documentation.
 
 ## Skills and Expertise
 
-- **Programming Languages/Technologies**: JavaScript, TypeScript, XML, JSON, YAML
-- **Front-End Development**: HTML, CSS, SCSS, Sass, React.js, Angular.js, Next.js, Material UI, Bootstrap, Tailwind CSS, Redux, Redux Toolkit, React Hook Form, React Context, JSX/TSX
+- **Programming Languages/Technologies**: JavaScript/TypeScript
+- **Front-End Development**: React.js, Next.js, Angular.js, Redux, Redux Toolkit, React Hook Form, React Context, JSX/TSX, HTML, CSS, Material UI, Bootstrap, Tailwind CSS, SCSS, Sass, 
 - **Back-End Development**: Node.js, Express.js, Nest.js, TypeORM, PrismaORM, WebSocket, Strapi, Web3
 - **Database Management**: SQL, MySQL, PostgreSQL, SQLite, OracleSQL, Firebase, MongoDB
 - **Virtualization Tools**: Docker
 - **Methodologies**: Agile, Scrum, Kanban, Pair Programming, Test-Driven Development, Feature-Driven Development
-- **Operating Systems**: SUSE Linux, Debian/Ubuntu/LinuxMint, MacOS
+- **Operating Systems**: SUSE Linux, Debian/Ubuntu/LinuxMint, MacOS, Windows
 - **CI/CD**: GitHub CI/CD, GitHub Actions
-- **Cloud Providers**: AWS
+- **Cloud Providers**: AWS, Heroku
 - **Development Tools**: PyCharm, WebStorm, JETBrains Products, Visual Studio, VS Code, Git
 - **Testing Tools**: Postman, Unittest, Mock, React Testing Library, Cypress, CodeceptJS, Jest
 
