@@ -31,7 +31,7 @@ With a strong ability to navigate through the entire project development cycle, 
 
 ## Contact
 
-- **Email**: [ivanys230796@gmail.com]
+- **Email**: [volodymyr.ivanus@meduzzen.com]
 - **LinkedIn**: [https://www.linkedin.com/in/ivanusvolodymyr/]
 - **GitHub**: [https://github.com/Ivanus-Volodymyr]
 
