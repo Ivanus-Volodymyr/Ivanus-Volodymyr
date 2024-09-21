@@ -1,9 +1,10 @@
 # Volodymyr I. - Full Stack Developer
 
-## About Me
+# 💫 About Me:
 
 I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science and 5 years of hands-on experience. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js,Nest.js, Express.js, React.js, Angular.js, and Next.js, coupled with a strong foundation in software architecture design and technical documentation.
 
+# 💻 Tech Stack:
 ## Skills and Expertise
 
 - **Programming Languages/Technologies**: JavaScript/TypeScript
@@ -29,10 +30,9 @@ With a strong ability to navigate through the entire project development cycle, 
 - Applied best practices in software development, including Agile methodologies and Test-Driven Development.
 - Continuously improved codebases through refactoring and by covering code with unit tests.
 
-## Contact
+## 🌐 Socials:
 
 - **Telegram**: [@ivanus_23]
-- **LinkedIn**: [https://www.linkedin.com/in/ivanusvolodymyr/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanusvolodymyr/) 
 - **GitHub**: [https://github.com/Ivanus-Volodymyr]
 
----
