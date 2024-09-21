@@ -18,11 +18,11 @@ I am a passionate Full-Stack Web Developer with a Master's degree in Computer Sc
 - **Development Tools**: PyCharm, WebStorm, JETBrains Products, Visual Studio, VS Code, Git
 - **Testing Tools**: Postman, Unittest, Mock, React Testing Library, Cypress, CodeceptJS, Jest
 
-## Professional Summary
+## 💼 Professional Summary
 
 With a strong ability to navigate through the entire project development cycle, I have a track record of designing robust software architectures and deploying scalable applications. My approach to development is rooted in writing clean, object-oriented, and well-documented code. In addition to technical skills, I bring excellent communication abilities, a sense of responsibility, perseverance, honesty, and a keen interest in continuous learning.
 
-## Key Achievements
+## 🏅 Key Achievements
 
 - Successfully led and delivered multiple full-stack web development projects using Node.js and React.js.
 - Demonstrated proficiency in database management and optimization with both SQL and NoSQL databases.
