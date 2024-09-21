@@ -29,7 +29,7 @@ With a strong ability to navigate through the entire project development cycle, 
 - Applied best practices in software development, including Agile methodologies and Test-Driven Development.
 - Continuously improved codebases through refactoring and by covering code with unit tests.
 
-## 🌐 Socials:
+## 🌐 Socials
 
 - **Telegram**: [@ivanus_23]
 - **Linkedin**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanusvolodymyr/) 
