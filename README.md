@@ -6,7 +6,7 @@ I am a passionate Full-Stack Web Developer with a Master's degree in Computer Sc
 
 ## 💻 Tech Stack
 
-- **Programming Languages/Technologies**: JavaScript/TypeScript
+- **Programming Languages/Technologies**: JavaScript/TypeScript, Python
 - **Front-End Development**: React.js, Next.js, Angular.js, Redux, Redux Toolkit, React Hook Form, React Context, JSX/TSX, HTML, CSS, Material UI, Bootstrap, Tailwind CSS, SCSS, Sass, 
 - **Back-End Development**: Node.js, Nest.js, Express.js, TypeORM, PrismaORM, WebSocket, Strapi, Web3, Python, Django, FastAPI
 - **Database Management**: SQL, MySQL, PostgreSQL, SQLite, OracleSQL, Firebase, MongoDB
