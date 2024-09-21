@@ -5,7 +5,6 @@
 I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science and 5 years of hands-on experience. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js,Nest.js, Express.js, React.js, Angular.js, and Next.js, coupled with a strong foundation in software architecture design and technical documentation.
 
 # 💻 Tech Stack:
-## Skills and Expertise
 
 - **Programming Languages/Technologies**: JavaScript/TypeScript
 - **Front-End Development**: React.js, Next.js, Angular.js, Redux, Redux Toolkit, React Hook Form, React Context, JSX/TSX, HTML, CSS, Material UI, Bootstrap, Tailwind CSS, SCSS, Sass, 
