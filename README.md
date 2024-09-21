@@ -32,6 +32,6 @@ With a strong ability to navigate through the entire project development cycle, 
 ## 🌐 Socials:
 
 - **Telegram**: [@ivanus_23]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanusvolodymyr/) 
+- **Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanusvolodymyr/) 
 - **GitHub**: [https://github.com/Ivanus-Volodymyr]
 
