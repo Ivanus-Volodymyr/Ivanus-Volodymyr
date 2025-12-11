@@ -32,10 +32,3 @@ With a strong ability to navigate through the entire project development cycle, 
 ## ⛓️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanus-Volodymyr&layout=compact)
 
-
-## 🌐 Socials
-
-- **Telegram**: [@ivanus_23]
-- **Linkedin**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanusvolodymyr/) 
-- **GitHub**: [https://github.com/Ivanus-Volodymyr]
-
