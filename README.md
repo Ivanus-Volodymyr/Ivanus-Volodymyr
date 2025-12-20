@@ -1,7 +1,7 @@
 # Volodymyr I. - Full Stack Developer
 
 
-I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science and 7 years of hands-on experience. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js, Nest.js, Express.js, React.js, Next.js, Angular.js and Python coupled with a strong foundation in software architecture design and technical documentation.
+I am a passionate Full-Stack Web Developer with a Master's degree in Computer Science. Proficient in both front-end and back-end technologies, I excel in creating seamless and efficient web applications. My expertise lies in Node.js, Nest.js, Express.js, React.js, Next.js, Angular.js and Python coupled with a strong foundation in software architecture design and technical documentation.
 
 ## Tech Stack
 
